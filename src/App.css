@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(180deg, #3333a3 0.4%, #121212 33.4%);
+}
+
+.card-bg {
+  background-color: rgba(255, 255, 255, 0.04) !important;
+}
+
+::-webkit-scrollbar {
+  display: none !important;
+}
+
+.PlayerRSWP {
+  background: black !important;
+}
+
+section#playlist {
+  background: linear-gradient(180deg, #def628 4.09%, #121212 46.28%);
+}
+
+#likes{
+  background: linear-gradient(180deg, #40cd03 10.09%, #121212 54.28%);
+
+}
+
