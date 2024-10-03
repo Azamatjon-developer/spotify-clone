@@ -2,7 +2,7 @@ import axios from 'axios'
 
 export const useAxios = () =>
   axios.create({
-    baseURL: 'http://localhost:3001/',
+    baseURL: 'https://spotify-clone-plum-psi-67.vercel.app/',
   })
 
 
